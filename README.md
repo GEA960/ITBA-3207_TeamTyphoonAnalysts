@@ -8,7 +8,8 @@ tropical storms emerge. As a result, every municipality should have a high level
 
 The objective of this analysis is to construct an Exploratory Data Analysis to Typhoons from the year 2019 that prompted the most casualty rates in the country and data on the municipal governments that had the least number of affected families individuals per typhoon. Moreover, global datasets about hurricanes from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be utilized in the same manner as mentioned in the Philippines Data set to know which Location in the United States had the most successful response and mitigation plan for typhoons. This information will be used to construct a Typhoon Mitigation and Response Plan that may help the Philippines deal with hurricanes. Integrating various programs from other countries will increase the likelihood of Filipinos' survival and recovery from typhoons.
 
-**Problem Statement**
+**Problem Statement
+ chgg jkgguigui hjhu uigsss**
 
 **Significance of the proposed project**
 
