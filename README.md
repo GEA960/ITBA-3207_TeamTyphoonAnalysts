@@ -10,8 +10,10 @@ This analysis aims to construct an Exploratory Data Analysis of Typhoons from 20
 
 The objective of this analysis is to construct an Exploratory Data Analysis to Typhoons from the year 2019 that prompted the most casualty rates in the country and data on the municipal governments that had the least number of affected families individuals per typhoon. Moreover, global datasets about hurricanes from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be utilized in the same manner as mentioned in the Philippines Data set to know which Location in the United States had the most successful response and mitigation plan for typhoons. This information will be used to construct a Typhoon Mitigation and Response Plan that may help the Philippines deal with hurricanes. Integrating various programs from other countries will increase the likelihood of Filipinos' survival and recovery from typhoons.
 
+
 **Problem Statement**
- 
+
+    **The primary issue addressed by this project is the lack of a mitigation and response framework among the cities and municipalities located throughout the Philippine archipelago. This was a significant component that might have a long-term impact on the lives of all Filipinos. Concerning this subject, the Senate Economic Planning Office (2017) conducted a study that evaluates the most often experienced problems and issues by various organizations in the Philippines. Among these concerns include a lack of coordination and collaboration amongst parties, the inadequate ability of line agencies and local government units to carry out DRRM tasks; reduced emphasis assigned to DRRM operations; inadequate enforcement of rules and policies; and scarcity of and difficulty in obtaining DRRM data/information. These are the concerns that this study seeks to address.**
 
 **Significance of the proposed project**
 
