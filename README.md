@@ -10,7 +10,7 @@ The objective of this analysis is to construct an Exploratory Data Analysis to T
 
 **Problem Statement**
 
-**Significance of the proposed project fdgdhdhdhfdhh**
+**Significance of the proposed project**
 
 **Methods**
 
