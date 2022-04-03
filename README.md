@@ -19,6 +19,8 @@ The primary issue addressed by this project is the lack of a mitigation and resp
 
 *We recommend you po sir to view our main documentation and data sets we've planned to analyzed. Please see the links stated below;*
 
-[Main Documentation Link:(https://docs.google.com/document/d/1yfj0QUZ-Dt5FysO-jBa7Mgs80OFm08GK?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
-[Data set 1:(https://docs.google.com/spreadsheets/d/1skcpnGsfHnxicTqiLRQjZ4pMh8TngEd-?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
-[Data set 2:(https://docs.google.com/spreadsheets/d/1zSjQBUwgHr_SaWX7m9DuJ1UPSZxeOkQz?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
+- [Main Documentation Link:(https://docs.google.com/document/d/1yfj0QUZ-Dt5FysO-jBa7Mgs80OFm08GK?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
+
+- [Data set 1 (https://docs.google.com/spreadsheets/d/1skcpnGsfHnxicTqiLRQjZ4pMh8TngEd-?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
+
+- [Data set 2:(https://docs.google.com/spreadsheets/d/1zSjQBUwgHr_SaWX7m9DuJ1UPSZxeOkQz?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
