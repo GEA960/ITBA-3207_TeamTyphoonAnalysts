@@ -22,6 +22,8 @@ This data analysis research will provide fresh light on the country's reaction t
 
 **Methods**
 
+The primary issue tackled by this project is the inadequacy of a mitigation and response framework across the Philippine archipelago's cities and municipalities. This was a critical component that might have long-term consequences for the lives of all Filipinos. The Senate Economic Planning Office (2017) researches this subject, evaluating the most often encountered challenges and concerns by various organizations in the Philippines. The researchers will conduct an Exploratory analysis approach on the data sets selected for this study to address this. The primary objective of the exploratory analysis is to discover (Calzon, 2022). And according to IBM Cloud Education (2020), no concept of the link between the data and the variables existed before the analysis. Once the data has been analyzed, the exploratory analysis will assist the researchers in identifying linkages and developing ideas and answers to the deficiency of typhoon disaster mitigation and response frameworks in the Philippines.
+
 **Expected output**
 
 *We recommend you po sir to view our main documentation and data sets we've planned to analyzed. Please see the links stated below;*
