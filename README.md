@@ -28,9 +28,34 @@ The primary issue tackled by this project is the inadequacy of a mitigation and 
 
 This research is planned to produce an exploratory data analysis of typhoons from the year 2019 that resulted in the highest casualty rates in the country and data on the local governments that experienced the fewest impacted families for each typhoon. Additionally, world wide hurricane datasets from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used in the same way as the Philippine dataset to determine which U.S location had the best successful reaction and mitigation strategy for typhoons. This data will be utilized to develop a Typhoon Mitigation and Response Plan based on the one that the U.S had, which can potentially assist the Philippines in dealing with hurricanes. By incorporating diverse strategies from other nations like the United States, the chance of the Filipinos surviving and recovering from typhoons likely increase.
 
+**Sustainable Development Goals (SDGs) of the Project**
 
-We recommend you po sir to view our main documentation and data sets we've planned to analyzed. Please see the links stated below;    *
+The SDGs which this project aims to attain are Sustainable Cities and Communities and Climate Action. These SDGs are further described as follows;
 
-- [Main Documentation Link:(https://docs.google.com/document/d/1yfj0QUZ-Dt5FysO-jBa7Mgs80OFm08GK?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
-- [Data set 1 (https://docs.google.com/spreadsheets/d/1skcpnGsfHnxicTqiLRQjZ4pMh8TngEd-?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
-- [Data set 2:(https://docs.google.com/spreadsheets/d/1zSjQBUwgHr_SaWX7m9DuJ1UPSZxeOkQz?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)]
+1. **Goal 11: Sustainable Cities and
+   Communities** - This SDG strives to mitigate the negative
+   consequences of natural catastrophes (globalgoals.org,
+   n.d.).
+2. **Goal 13: Climate Action** - This
+   goal strives to take immediate action to address climate change and its
+   consequences (United Nations,
+   n.d.).
+   Specifically, enhancing resilience and adaptation ability in all nations
+   to climate-related dangers and natural disasters.
+
+   These SDGs is aligned with the
+   TMRF project as it will provide a
+   mitigation and response plan based from the tested and used framework by the
+   U.S. government to their states. This framework will help the Philippine
+   government in taking immediate action, prior to a disaster, to mitigate losses
+   in the case of a typhoon disaster.
+
+Notes:
+
+We recommend you to view our main documentation and data sets we've planned to analyzed. The reference page is also included on the main documentation, so if you want to know every links of the references, just click [here](https://docs.google.com/document/d/1yfj0QUZ-Dt5FysO-jBa7Mgs80OFm08GK?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fshttps://).
+
+Links for Data Set Excel sheets;
+
+* [Data set 1](https://docs.google.com/spreadsheets/d/1skcpnGsfHnxicTqiLRQjZ4pMh8TngEd-?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fshttps://)
+
+- [Data set 2](https://docs.google.com/spreadsheets/d/1zSjQBUwgHr_SaWX7m9DuJ1UPSZxeOkQz?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)
