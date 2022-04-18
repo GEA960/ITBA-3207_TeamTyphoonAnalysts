@@ -62,7 +62,7 @@ Links for Data Set Excel sheets;
 
 **References**
 
-**Brown, S. (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
+**Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
 
 **Calzon**, B. (2022, March 9). **Your Modern Business Guide **To** Data Analysis Methods And Techniques**. Retrieved March 2022, from datapine.com: https://www.datapine.com/blog/data-analysis-methods-and-techniq**ues/**
 
@@ -74,9 +74,9 @@ Links for Data Set Excel sheets;
 
 **Commision** on Audit. (n.d.). **Disaster Management Practices in the **Philippines :** An Assessment**. Retrieved March 2022, from coa.gov.ph: https://www.coa.gov.ph/disaster_audit/doc/National.pdf
 
-**European Commission. (n.d.). **CRED - Centre for Research on the Epidemiology of Disasters**. Retrieved March 2022, from knowledge4policy.ec.europa.eu: https://know**ledge4policy.ec.europa.eu/organisation/cred-centre-research-epidemiology-disasters_en
+**European Commission**. (n.d.). **CRED - Centre for Research on the Epidemiology of Disasters**. Retrieved March 2022, from knowledge4policy.ec.europa.eu: https://know**ledge4policy.ec.europa.eu/organisation/cred-centre-research-epidemiology-disasters_en
 
-**globalgoals.org. (n.d.). **Sustainable Cities and Communities**. Retrieved April 2022, from globalgoals.org: https://www.globalgoals.org/goals/11-sustainable-cities-and-commu**nities/
+**globalgoals.org**. (n.d.). **Sustainable Cities and Communities**. Retrieved April 2022, from globalgoals.org: https://www.globalgoals.org/goals/11-sustainable-cities-and-commu**nities/
 
 **Human Data Exchange Organization. (2019). **Philippines 2019 Events Data**. Retrieved March 2022, from Human Data Exchange Organization: https://data.humdata.**
 
@@ -84,7 +84,7 @@ Links for Data Set Excel sheets;
 
 **National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters ** **** **(1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
 
-**Senate Economic Planning Office. (2017, May). **Examining the Philippines’ **Disaster Risk Reduction and Management System**. Retrieved March 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
+**Senate Economic Planning Office**. (2017, May). **Examining the Philippines’ **Disaster Risk Reduction and Management System**. Retrieved March 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
 
 **Sustainable Development Goals Helpdesk. (n.d.). **The Huma**nitarian Data Exchange (HDX)**. Retrieved March 2022, from Sustainable Development Goals Helpdesk: https://sdghelpdesk.unescap.org/node/1086#:~:text=The%20Humanitarian%20Data%20Exchange%20(HDX)%20is%20an%20open%20platform%20for,over%20200%20countries%20and%2**0territories.**
 
