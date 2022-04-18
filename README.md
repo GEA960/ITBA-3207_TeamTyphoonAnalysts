@@ -66,9 +66,7 @@ Links for Data Set Excel sheets;
 
 **Calzon**, B. (2022, March 9). **Your Modern Business Guide **To** Data Analysis Methods And Techniques**. Retrieved March 2022, from datapine.com: https://www.datapine.com/blog/data-analysis-methods-and-techniq**ues/**
 
-**Centre for Research on the Epidemiology of Disasters. (2022). **2019-2022 EM-DAT of America**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://public.emdat.be/data**
-
-
+**Centre for Research on the Epidemiology of Disasters**. (2022). **2019-2022 EM-DAT of America**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://public.emdat.be/data
 
 **Centre for Research on the Epidemiology of Disaste**rs. (n.d.). **Welcome to the EM-DAT website**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://www.emdat.be/
 
@@ -82,12 +80,12 @@ Links for Data Set Excel sheets;
 
 **IBM Cloud Education. (2020, August 25). **Exploratory Data Analysis**. Retrieved March 2022, from** ibm.com: https://www.ibm.com/cloud/learn/exploratory-data-analysis
 
-**National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters ** **** **(1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
+**National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters** **(1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
 
-**Senate Economic Planning Office**. (2017, May). **Examining the Philippines’ **Disaster Risk Reduction and Management System**. Retrieved March 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
+**Senate Economic Planning Office**. (2017, May). **Examining the Philippines’ Disaster Risk Reduction and Management System**. Retrieved March 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
 
-**Sustainable Development Goals Helpdesk. (n.d.). **The Huma**nitarian Data Exchange (HDX)**. Retrieved March 2022, from Sustainable Development Goals Helpdesk: https://sdghelpdesk.unescap.org/node/1086#:~:text=The%20Humanitarian%20Data%20Exchange%20(HDX)%20is%20an%20open%20platform%20for,over%20200%20countries%20and%2**0territories.**
+**Sustainable Development Goals Helpdesk.** (n.d.). **The Humanitarian Data Exchange (HDX)**. Retrieved March 2022, from Sustainable Development Goals Helpdesk: https://sdghelpdesk.unescap.org/node/1086#:~:text=The%20Humanitarian%20Data%20Exchange%20(HDX)%20is%20an%20open%20platform%20for,over%20200%20countries%20and%2**0territories.**
 
-**United Nations. (n.d.). **#Envision2030 Goal 13: Climate Action**. Retrieved April 2022, from un.org: https://www.un.org/development/desa/disabilities/envision2030-goal13.html**
+**United Nations.** (n.d.). **#Envision2030 Goal 13: Climate Action**. Retrieved April 2022, from un.org: https://www.un.org/development/desa/disabilities/envision2030-goal13.html
 
-**Weather Underground. (n.d.). **Prepare for a Hurricane or Typhoon**. Retri**eved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
+**Weather Underground. (n.d.). **Prepare for a Hurricane or Typhoon**. Retrieved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
