@@ -76,9 +76,9 @@ Links for Data Set Excel sheets;
 
 **globalgoals.org**. (n.d.). **Sustainable Cities and Communities**. Retrieved April 2022, from globalgoals.org: https://www.globalgoals.org/goals/11-sustainable-cities-and-commu**nities/
 
-**Human Data Exchange Organization. (2019). **Philippines 2019 Events Data**. Retrieved March 2022, from Human Data Exchange Organization: https://data.humdata.**
+**Human Data Exchange Organization**. (2019). **Philippines 2019 Events Data**. Retrieved March 2022, from Human Data Exchange Organization: https://data.humdata.**
 
-**IBM Cloud Education. (2020, August 25). **Exploratory Data Analysis**. Retrieved March 2022, from** ibm.com: https://www.ibm.com/cloud/learn/exploratory-data-analysis
+**IBM Cloud Education**. (2020, August 25). **Exploratory Data Analysis**. Retrieved March 2022, from** ibm.com: https://www.ibm.com/cloud/learn/exploratory-data-analysis
 
 **National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters** **(1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
 
