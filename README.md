@@ -89,8 +89,3 @@ Links for Data Set Excel sheets;
 **United Nations.** (n.d.). **#Envision2030 Goal 13: Climate Action**. Retrieved April 2022, from un.org: https://www.un.org/development/desa/disabilities/envision2030-goal13.html
 
 **Weather Underground**. (n.d.). **Prepare for a Hurricane or Typhoon**. Retrieved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
-
-
-
-
-Trial Push to test email notif
