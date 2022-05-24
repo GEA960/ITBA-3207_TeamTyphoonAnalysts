@@ -45,18 +45,7 @@ The SDGs which this project aims to attain are Sustainable Cities and Communitie
    <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-13.png" width="200" height="200">
 
    These SDGs is aligned with the TMRF project as it will provide a
-   mitigation and response plan based from the tested and used framework by the U.S. government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster.
-   =======================================================================================================================================================================================================================================================================
-
-   These SDGs is aligned with the TMRF project as it will provide amitigation and response plan based from the tested and used framework by the U.S. government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate lossesin the case of a typhoon disaster.
-
->>>>>>> 508d6dbcf1421af378ee8958bf8bcfde3d650769
->>>>>>>
->>>>>>
->>>>>
->>>>
->>>
->>
+   mitigation and response plan based from the tested and used framework by the U.S. government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster.These SDGs is aligned with the TMRF project as it will provide a mitigation and response plan based from the tested and used framework by the U.S. government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster.These SDGs is aligned with the TMRF project as it will provide amitigation and response plan based from the tested and used framework by the U.S. government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate lossesin the case of a typhoon disaster.
 
 Notes:
 
