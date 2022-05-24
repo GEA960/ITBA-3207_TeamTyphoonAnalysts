@@ -36,7 +36,7 @@ The SDGs which this project aims to attain are Sustainable Cities and Communitie
 1. ![Sustainable Development Goal 11 - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/8/81/Sustainable_Development_Goal_11.png)
    **Goal 11: Sustainable Cities and
    Communities** - This SDG strives to mitigate the negative
-   consequences of natural catastrophes (globalgoals.org,
+   consequences of natural catastrophes like typhoons (globalgoals.org,
    n.d.).
 
 
