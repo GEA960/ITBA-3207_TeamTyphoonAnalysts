@@ -42,14 +42,14 @@ The SDGs which this project aims to attain are Sustainable Cities and Communitie
    n.d.).
 
    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Sustainable_Development_Goal_11.png" width="200" height="200">
-2. **Goal 13: Climate Action** - This
-   goal strives to take immediate action to address climate change and its consequences (United Nations, n.d.). Specifically, enhancing resilience and adaptation ability in all nations
-   to climate-related dangers and natural disasters.
+2. **Goal 13: Climate Action** - This goal strives to take immediate action to address climate change and its consequences (United Nations, n.d.). Specifically, enhancing resilience and adaptation ability in all nations to climate-related dangers and natural disasters.
 
    <img src="https://www.un.org/esa/ffd/ffddialogue/images/E_SDG%20goals_icons-individual-rgb-13.png" width="200" height="200">
+3. **Goal 15: Life on Land** - This SDG seeks to manage forests sustainably, prevent desertification, halt and reverse land degradation, and halt biodiversity loss.
 
-   These SDGs is aligned with the TMRF project as it will provide a
-   mitigation and response plan based from the tested and used framework by the U.S. government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster.
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Sustainable_Development_Goal_15.png" width="200" height="200">
+
+These SDGs are aligned with the TMRF project as it will provide a mitigation and response plan based on the tested and used framework by the American government to their states. This framework will help the Philippine government in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster.
 
 Notes:
 
