@@ -4,13 +4,11 @@
 
 ---
 
-**Team Typhoon Analysts Member**
-
-
-
-*Alvaro, Gabriel Edrian A.*
+**Team Typhoon Analysts Member** - ITBA 3207
 
 *Alangilan, Christine Joy M.*
+
+*Alvaro, Gabriel Edrian A.*
 
 *Palis, John Arthur B.*
 
