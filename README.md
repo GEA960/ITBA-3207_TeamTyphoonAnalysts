@@ -4,7 +4,7 @@
 
 ---
 
-**Team Typhoon Analysts Member** - ITBA 3207
+**Team Typhoon Analysts Members** - ITBA 3207
 
 *Alangilan, Christine Joy M.*
 
