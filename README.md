@@ -105,7 +105,7 @@ Links for Data Set Excel sheets;
 
 **Calzon**, B. (2022, March 9). **Your Modern Business Guide **To** Data Analysis Methods And Techniques**. Retrieved March 2022, from datapine.com: https://www.datapine.com/blog/data-analysis-methods-and-techniq**ues/**
 
-**CUBA: A MODEL IN HURRICANE RISK MANAGEMENT**| Meetings Coverage and Press Releases. (2020).Retrieved from May 2022, from Un.org.: https://www.un.org/press/en/2004/iha943.doc.htm**ues/**
+**CUBA: A MODEL IN HURRICANE RISK MANAGEMENT**| Meetings Coverage and Press Releases. (2020).Retrieved from May 2022, from Un.org.: https://www.un.org/press/en/2004/iha943.doc.htm
 
 
 **Centre for Research on the Epidemiology of Disasters**. (2022). **2019-2022 EM-DAT of America**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://public.emdat.be/data
