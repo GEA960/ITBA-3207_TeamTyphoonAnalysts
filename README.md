@@ -107,7 +107,6 @@ Links for Data Set Excel sheets;
 
 **CUBA: A MODEL IN HURRICANE RISK MANAGEMENT**| Meetings Coverage and Press Releases. (2020).Retrieved from May 2022, from Un.org.: https://www.un.org/press/en/2004/iha943.doc.htm
 
-
 **Centre for Research on the Epidemiology of Disasters**. (2022). **2019-2022 EM-DAT of America**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://public.emdat.be/data
 
 **Centre for Research on the Epidemiology of Disaste**rs. (n.d.). **Welcome to the EM-DAT website**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://www.emdat.be/
