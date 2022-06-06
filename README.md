@@ -101,7 +101,7 @@ First Presentation
 
 ---
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/rRG2zQXw8y8)
+[![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/rRG2zQXw8y8)
 
 ---
 
