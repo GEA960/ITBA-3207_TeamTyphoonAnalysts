@@ -97,7 +97,7 @@ Links for Data Set Excel sheets;
 
 ---
 
-Final Presentations
+**Final Presentations**
 
 ---
 
@@ -108,13 +108,12 @@ Final Presentations
 [![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/rRG2zQXw8y8)
 
 </center>
+
+
+
 ---
 
 **References**
-
----
-
-
 
 ---
 
