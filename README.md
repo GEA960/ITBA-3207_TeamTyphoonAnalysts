@@ -60,7 +60,7 @@ The primary issue tackled by this project is the inadequacy of a mitigation and 
 
 ---
 
-This research is planned to produce an exploratory data analysis of typhoons from the year 2019 that resulted in the highest casualty rates in the country and data on the local governments that experienced the fewest impacted families for each typhoon. Additionally, world wide hurricane datasets from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used in the same way as the Philippine dataset to determine which U.S location had the best successful reaction and mitigation strategy for typhoons. This data will be utilized to develop a Typhoon Mitigation and Response Plan based on the one that the U.S had, which can potentially assist the Philippines in dealing with hurricanes. By incorporating diverse strategies from other nations like the United States, the chance of the Filipinos surviving and recovering from typhoons likely increase.
+This research is planned to produce an exploratory data analysis of typhoons from the year 2019 that resulted in the highest casualty rates in the country and data on the local governments that experienced the fewest impacted families for each typhoon. Additionally, world wide hurricane datasets from the Centre for Research on the Epidemiology of Disasters' Emergency Events Database (EM-DAT) will be used in the same way as the Philippine dataset to determine which U.S location had the best successful reaction and mitigation strategy for typhoons. This data can be utilized by the Philippine government to develop a Typhoon Mitigation and Response Plan based on the one that the U.S had, which can potentially assist the Philippines in dealing with hurricanes. By incorporating diverse strategies from other nations like the United States, the chance of the Filipinos surviving and recovering from typhoons likely increase.
 
 ---
 
@@ -94,6 +94,14 @@ Links for Data Set Excel sheets;
 * [Data set 1](https://docs.google.com/spreadsheets/d/1skcpnGsfHnxicTqiLRQjZ4pMh8TngEd-?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fshttps://)
 
 - [Data set 2](https://docs.google.com/spreadsheets/d/1zSjQBUwgHr_SaWX7m9DuJ1UPSZxeOkQz?rtpof=true&authuser=gabrieledrian.alvaro%40g.batstate-u.edu.ph&usp=drive_fs)
+
+---
+
+First Presentation
+
+---
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/rRG2zQXw8y8](https://youtu.be/rRG2zQXw8y8))
 
 ---
 
