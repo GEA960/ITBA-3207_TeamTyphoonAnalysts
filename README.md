@@ -97,33 +97,16 @@ Links for Data Set Excel sheets;
 
 ---
 
-<<<<<<< HEAD
-**First Presentations**
-
----
-
-First Presentation (For further improvement)
-
-=======
-**Final Presentations**
+Final Presentations
 
 ---
 
 1. First Presentation (For further improvement)
->>>>>>> efcbccb5bb82e2245929c3a48cdd4537e0604331
+<center>
 
-```
 [![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/rRG2zQXw8y8)
-```
-<<<<<<< HEAD
-=======
 
-
-
-<iframe src="https://drive.google.com/file/d/1C6bQP6JdAZ4iLFR2GuoHr-yDktADJYHs/preview" width="640" height="480" allow="autoplay"></iframe>
-
->>>>>>> efcbccb5bb82e2245929c3a48cdd4537e0604331
-
+</center>
 ---
 
 **References**
