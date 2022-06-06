@@ -102,6 +102,7 @@ Final Presentations
 ---
 
 1. First Presentation (For further improvement)
+
 <center>
 
 [![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/rRG2zQXw8y8)
@@ -110,6 +111,10 @@ Final Presentations
 ---
 
 **References**
+
+---
+
+
 
 ---
 
