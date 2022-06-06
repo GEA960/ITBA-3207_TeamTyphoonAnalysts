@@ -97,11 +97,15 @@ Links for Data Set Excel sheets;
 
 ---
 
-First Presentation
+**Final Presentations**
 
 ---
 
+1. First Presentation (For further improvement)
+
+```
 [![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/rRG2zQXw8y8)
+```
 
 ---
 
