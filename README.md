@@ -101,7 +101,7 @@ First Presentation
 
 ---
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/rRG2zQXw8y8](https://youtu.be/rRG2zQXw8y8))
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/rRG2zQXw8y8)
 
 ---
 
