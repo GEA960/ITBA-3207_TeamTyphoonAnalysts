@@ -72,7 +72,7 @@
 
 ---
 
-`<sp align='justify'>`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The SDGs which this project aims to attain are Sustainable Cities and Communities and Climate Action. These SDGs are further described as follows; `</sp>`
+`<sp align='justify'>`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The SDGs which this project aims to attain are Sustainable Cities and Communities and Climate Action. These SDGs are further described as follows; `</p>`
 
 1. **Goal 11: Sustainable Cities and
    Communities** - This SDG strives to mitigate the negative
