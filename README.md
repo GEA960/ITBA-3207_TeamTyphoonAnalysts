@@ -4,15 +4,15 @@
 
 ---
 
-<center>**Team Typhoon Analysts Members** - ITBA 3207 </center>
+**Team Typhoon Analysts Members** - ITBA 3207 
 
-<center>*Alangilan, Christine Joy M.*</center>
+*Alangilan, Christine Joy M.*
 
-<center>*Alvaro, Gabriel Edrian A.*</center>
+*Alvaro, Gabriel Edrian A.*
 
-<center>*Palis, John Arthur B.*</center>
+*Palis, John Arthur B.*
 
-<center>*Guerra, Marian Z.*</center>
+*Guerra, Marian Z.*
 
 ---
 
