@@ -134,15 +134,9 @@ Links for Data Set Excel sheets;
 
 ---
 
-**After the Hurricane – an overview of the damage Irma and Maria left behind - Antigua and Barbuda | ReliefWeb**. (n.d.). Reliefweb.int. Retrieved June 8, 2022, from https://reliefweb.int/report/antigua-and-barbuda/after-hurricane-overview-damage-irma-and-maria-left-behind
-
 **Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
 
-**Buchholz, K**. (2020, August 28). **Katrina is the costliest, but not the deadliest hurricane to hit the U.S**. Statista. https://www.statista.com/chart/22748/us-damages-death-tolls-costliest-hurricanes-in-the-us/
-
 **Calzon**, B. (2022, March 9). **Your Modern Business Guide **To** Data Analysis Methods And Techniques**. Retrieved March 2022, from datapine.com: https://www.datapine.com/blog/data-analysis-methods-and-techniq**ues/**
-
-**CUBA: A MODEL IN HURRICANE RISK MANAGEMENT**| Meetings Coverage and Press Releases. (2020).Retrieved from May 2022, from Un.org.: https://www.un.org/press/en/2004/iha943.doc.htm
 
 **Centre for Research on the Epidemiology of Disasters**. (2022). **2019-2022 EM-DAT of America**. Retrieved March 2022, from Centre for Research on the Epidemiology of Disasters: https://public.emdat.be/data
 
@@ -150,37 +144,17 @@ Links for Data Set Excel sheets;
 
 **Commision** on Audit. (n.d.). **Disaster Management Practices in the **Philippines :** An Assessment**. Retrieved March 2022, from coa.gov.ph: https://www.coa.gov.ph/disaster_audit/doc/National.pdf
 
-**Constible, J**. (2021). **Preparing for hurricanes: Infrastructure & our health**. NRDC. Retrieved June 8, 2022, from https://www.nrdc.org/experts/juanita-constible/preparing-hurricanes-infrastructure-our-health
-
 **European Commission**. (n.d.). **CRED - Centre for Research on the Epidemiology of Disasters**. Retrieved March 2022, from knowledge4policy.ec.europa.eu: https://know**ledge4policy.ec.europa.eu/organisation/cred-centre-research-epidemiology-disasters_en
 
 **globalgoals.org**. (n.d.). **Sustainable Cities and Communities**. Retrieved April 2022, from globalgoals.org: https://www.globalgoals.org/goals/11-sustainable-cities-and-commu**nities/
 
 **Human Data Exchange Organization**. (2019). **Philippines 2019 Events Data**. Retrieved March 2022, from Human Data Exchange Organization: https://data.humdata.**
 
-**Hurricane Irma: Visual guide**. (2017, September 15). BBC News. https://www.bbc.com/news/world-latin-america-41172545
-
 **IBM Cloud Education**. (2020, August 25). **Exploratory Data Analysis**. Retrieved March 2022, from** ibm.com: https://www.ibm.com/cloud/learn/exploratory-data-analysis
-
-**Masters, J.,Ph. D.** (n.d.). ***Haiti’s Tragic Hurricane History***. Weather Underground. Retrieved June 9, 2022,
-from https://www.wunderground.com/hurricane/articles/haiti-hurricane-history
 
 **National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters** **(1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
 
-**Natural disasters: Economic effects of hurricanes Katrina, Sandy, Harvey, and Irma**. (2020, September 20). U.S. Government Accountability Office (U.S. GAO). Retrieved June 8, 2022, from https://www.gao.gov/products/gao-20-633r
-
-**PART 3 ST KITTS NEVIS HURRICANE ACTION PLAN.** (n.d.). Retrieved June 2, 2022, from http://ndmd.kn/docs/SKN_National_Disaster_Plan_Part3.pdf
-
-**Perito, R. M**. (2008, November 11). **Haiti After the Storms: Weather and Conflict**. United States Institute
-of Peace. Retrieved June 9, 2022, from https://www.usip.org/publications/2008/11/haiti-after-storms-
-weather-and-conflict
-
 **Senate Economic Planning Office**. (2017, May). **Examining the Philippines’ Disaster Risk Reduction and Management System**. Retrieved March 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
-
-**Simmons, J**. (n.d.). **Hurricane Season in the Caribbean**. Responsible Travel. Retrieved June 8, 2022, from https://www.responsibletravel.com/holidays/caribbean/travel-guide/hurricane-season-in-the-caribbean
-
-**Social, B.*** (2018, February 23). **The History of Natural Disasters in Haiti**. uFondwa-USA, Inc. Retrieved
-June 9, 2022, from https://www.ufondwa.org/history-natural-disasters-haiti/
 
 **Sustainable Development Goals Helpdesk.** (n.d.). **The Humanitarian Data Exchange (HDX)**. Retrieved March 2022, from Sustainable Development Goals Helpdesk: https://sdghelpdesk.unescap.org/node/1086#:~:text=The%20Humanitarian%20Data%20Exchange%20(HDX)%20is%20an%20open%20platform%20for,over%20200%20countries%20and%2**0territories.**
 
