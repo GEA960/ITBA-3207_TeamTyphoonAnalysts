@@ -130,11 +130,11 @@ Links for Data Set Excel sheets;
 
 ---
 
-**References**
+**References for the Documentation**
 
 ---
 
-**Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
+**Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March    2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
 
 **Calzon**, B. (2022, March 9). **Your Modern Business Guide **To** Data Analysis Methods And Techniques**. Retrieved March 2022, from datapine.com: https://www.datapine.com/blog/data-analysis-methods-and-techniq**ues/**
 
@@ -161,3 +161,49 @@ Links for Data Set Excel sheets;
 **United Nations.** (n.d.). **#Envision2030 Goal 13: Climate Action**. Retrieved April 2022, from un.org: https://www.un.org/development/desa/disabilities/envision2030-goal13.html
 
 **Weather Underground**. (n.d.). **Prepare for a Hurricane or Typhoon**. Retrieved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
+
+
+---
+
+**References for the Analysis**
+
+---
+
+**Asian Institute of Management.** (n.d.). **EMDRCM Voices: Therese Mae Auman.** (Asian Institute of Management) Retrieved June 2022, from devatwork.aim.edu: https://devatwork.aim.edu/article/emdrcm-voices-therese-mae-auman/
+BBC News. (2017, September 15). Hurricane Irma: Visual guide. Retrieved June 2022, from bbc.com: https://www.bbc.com/news/world-latin-america-41172545
+
+**Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth.** Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1xfQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
+
+**Buchholz, K.** (2020, August 28). **Katrina Is the Costliest, But Not the Deadliest Hurricane to Hit the U.S.** Retrieved June 2022, from statista.com: https://www.statista.com/chart/22748/us-damages-death-tolls-costliest-hurricanes-in-the-us/
+
+**Commision on Audit.** (n.d.). **Disaster Management Practices in the Philippines : An Assessment.** Retrieved March 2022, from coa.gov.ph: https://www.coa.gov.ph/disaster_audit/doc/National.pdf
+
+**Constible, J.** (2021, May 13). Preparing for Hurricanes: Infrastructure & Our Health. Retrieved June 2022, from nrdc.org: https://www.nrdc.org/experts/juanita-constible/preparing-hurricanes-infrastructure-our-health
+
+**Enano, J. O.** (2019, February 6). **Lack of money leaves most PH households unprepared for disasters.** Retrieved May 2022, from newsinfo.inquirer.net: https://newsinfo.inquirer.net/1082001/lack-of-money-leaves-most-ph-households-unprepared-for-disasters
+
+**Humanitarian Country Team.** (2019, December 10). **Typhoon Kammuri (Tisoy) Joint Rapid Assessment of Impact and Needs.** Retrieved June 2022, from humanitarianresponse.info: https://www.humanitarianresponse.info/sites/www.humanitarianresponse.info/files/documents/files/191211_typhoon_kammuri_tisoy_rapid_assessment_report_rev.pdf
+
+**Masters, J.** (n.d.). **Haiti's Tragic Hurricane History.** Retrieved June 2022, from wunderground.com: https://www.wunderground.com/hurricane/articles/haiti-hurricane-history
+
+**National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters (1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
+
+**Nevis Disaster Management Department.** (n.d.). **Part 3 - St. Kit Nevis Hurrican Action Plan.** Retrieved June 2022, from ndmd.kn: https://ndmd.kn/docs/SKN_National_Disaster_Plan_Part3.pdf
+
+**OCHA Relief Web.** (2017, September 22). **After the Hurricane – an overview of the damage Irma and Maria left behind.** Retrieved June 2022, from reliefweb.int: https://reliefweb.int/report/antigua-and-barbuda/after-hurricane-overview-damage-irma-and-maria-left-behind
+
+**Perito, R. M.** (2008, November 11). **Haiti After the Storms: Weather and Conflict.** Retrieved June 2022, from usip.org: https://www.usip.org/publications/2008/11/haiti-after-storms-weather-and-conflict
+
+**Policy Brief - Senate Economic Planning Office.** (2017, May). **Examining the Philippines’ Disaster Risk Reduction and Management System.** Retrieved May 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
+
+**Simmons, J.** (n.d.). **Hurricane Season in the Caribbean.** Retrieved June 2022, from responsibletravel.com: https://www.responsibletravel.com/holidays/caribbean/travel-guide/hurricane-season-in-the-caribbean
+Social, B. (2018, February 22). The History of Natural Disasters in Haiti. Retrieved June 2022, from ufondwa.org: https://www.ufondwa.org/history-natural-disasters-haiti/
+
+**The Economists.** (2018, June 1). **America is good at dealing with hurricanes on the mainland—after they strike.** Retrieved June 2022, from economist.com: https://www.economist.com/graphic-detail/2018/06/01/america-is-good-at-dealing-with-hurricanes-on-the-mainland-after-they-strike
+
+**United Nations.** (2004, September 14). **Cuba: A Model in Hurricane Risk Management.** Retrieved June 2022, from un.org: https://www.un.org/press/en/2004/iha943.doc.htm
+
+**Weather Underground.** (n.d.). **Prepare for a Hurricane or Typhoon.** Retrieved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
+
+**Young, C.** (2020, September 10). **Natural Disasters: Economic Effects of Hurricanes Katrina, Sandy, Harvey, and Irma.** Retrieved from gao.gov: https://www.gao.gov/products/gao-20-633r
+
