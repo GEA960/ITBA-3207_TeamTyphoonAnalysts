@@ -8,23 +8,23 @@
 
 *Alangilan, Christine Joy M.*
 <p align="center">
-  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/CJ%20Alangilan.JPG" width="350" title="hover text">
+  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/CJ%20Alangilan.JPG" width="100" title="hover text">
 </p>
 
 *Alvaro, Gabriel Edrian A.*
 <p align="center">
-  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/123234.jpg" width="350" title="hover text">
+  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/123234.jpg" width="100" title="hover text">
 </p>
 
 *Palis, John Arthur B.*
 
 <p align="center">
-  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/John%20Palis.jpg" width="350" title="hover text">
+  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/John%20Palis.jpg" width="100 title="hover text">
 </p>
 
 *Guerra, Marian Z.*
 <p align="center">
-  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/Marian%20Guerra.jpg" width="350" title="hover text">
+  <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/Marian%20Guerra.jpg" width="100" title="hover text">
 </p>
 ---
 
