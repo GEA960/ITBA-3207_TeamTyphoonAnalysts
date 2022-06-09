@@ -126,12 +126,20 @@ Links for Data Set Excel sheets;
 
 </center>
 
+
+2. Final Presentation for Finals
+
+<center>
+
+[![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/Final%20Video%20Presentation.JPG)](https://youtu.be/yOAJorLQAN4)
+
+</center>
+
 ---
 
 **References for the Documentation**
 
 ---
-
 **Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March    2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
 
 **Calzon**, B. (2022, March 9). **Your Modern Business Guide **To** Data Analysis Methods And Techniques**. Retrieved March 2022, from datapine.com: https://www.datapine.com/blog/data-analysis-methods-and-techniq**ues/**
@@ -212,4 +220,3 @@ ps://www.americasquarterly.org/article/how-the-caribbean-can-prepare-for-more-vi
 2pWyBJmnoYTM1w
 
 **Young, C.** (2020, September 10). **Natural Disasters: Economic Effects of Hurricanes Katrina, Sandy, Harvey, and Irma.** Retrieved from gao.gov: https://www.gao.gov/products/gao-20-633r
-
