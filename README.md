@@ -139,12 +139,22 @@ Links for Data Set Excel sheets;
 
 **IBM Cloud Education**. (2020, August 25). **Exploratory Data Analysis**. Retrieved March 2022, from** ibm.com: https://www.ibm.com/cloud/learn/exploratory-data-analysis
 
+**Masters, J.,Ph. D.** (n.d.). ***Haiti’s Tragic Hurricane History***. Weather Underground. Retrieved June 9, 2022,
+from https://www.wunderground.com/hurricane/articles/haiti-hurricane-history
+
 **National Research Council, Division on Earth and Life Studies, Commission on Geosciences - Environment and Resources, U.S. National Committee for the Decade for Natural Disaster Reduction.** (1991). **A Safer Future: Reducing the Impacts of Natural Disasters** **(1991).** Retrieved March 2022, from nap.nationalacademies.org: https://nap.nationalacademies.org/read/1840/chapter/7
 
 **PART 3 ST KITTS NEVIS HURRICANE ACTION PLAN.** (n.d.). Retrieved June 2, 2022, from http://ndmd.kn/docs/SKN_National_Disaster_Plan_Part3.pdf
 
+**Perito, R. M**. (2008, November 11). **Haiti After the Storms: Weather and Conflict**. United States Institute
+of Peace. Retrieved June 9, 2022, from https://www.usip.org/publications/2008/11/haiti-after-storms-
+weather-and-conflict
+
 ‌
 **Senate Economic Planning Office**. (2017, May). **Examining the Philippines’ Disaster Risk Reduction and Management System**. Retrieved March 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
+
+**Social, B.*** (2018, February 23). **The History of Natural Disasters in Haiti**. uFondwa-USA, Inc. Retrieved
+June 9, 2022, from https://www.ufondwa.org/history-natural-disasters-haiti/
 
 **Sustainable Development Goals Helpdesk.** (n.d.). **The Humanitarian Data Exchange (HDX)**. Retrieved March 2022, from Sustainable Development Goals Helpdesk: https://sdghelpdesk.unescap.org/node/1086#:~:text=The%20Humanitarian%20Data%20Exchange%20(HDX)%20is%20an%20open%20platform%20for,over%20200%20countries%20and%2**0territories.**
 
