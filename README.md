@@ -6,26 +6,29 @@
 
 **Team Typhoon Analysts Members** - ITBA 3207
 
-<center>*Alangilan, Christine Joy M.*</center>
+<center>Alangilan, Christine Joy M.</center>
 <p align="center">
   <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/CJ%20Alangilan.JPG" width="100" title="hover text">
 </p>
 
-<center>*Alvaro, Gabriel Edrian A.*</center>
+<center>Alvaro, Gabriel Edrian A.</center>
 <p align="center">
   <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/123234.jpg" width="100" title="hover text">
 </p>
 
-<center>*Palis, John Arthur B.*</center>
+<center>Palis, John Arthur B.</center>
 
 <p align="center">
   <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/John%20Palis.jpg" width="100 title="hover text">
 </p>
 
-<center>*Guerra, Marian Z.*</center>
+<center>Guerra, Marian Z.</center>
 <p align="center">
   <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/Marian%20Guerra.jpg" width="100" title="hover text">
 </p>
+
+
+
 ---
 
 **Introduction**
