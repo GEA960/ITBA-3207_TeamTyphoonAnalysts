@@ -27,8 +27,6 @@
   <img src="https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/Marian%20Guerra.jpg" width="100" title="hover text">
 </p>
 
-
-
 ---
 
 **Introduction**
@@ -162,7 +160,6 @@ Links for Data Set Excel sheets;
 
 **Weather Underground**. (n.d.). **Prepare for a Hurricane or Typhoon**. Retrieved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
 
-
 ---
 
 **References for the Analysis**
@@ -170,7 +167,8 @@ Links for Data Set Excel sheets;
 ---
 
 **Asian Institute of Management.** (n.d.). **EMDRCM Voices: Therese Mae Auman.** (Asian Institute of Management) Retrieved June 2022, from devatwork.aim.edu: https://devatwork.aim.edu/article/emdrcm-voices-therese-mae-auman/
-BBC News. (2017, September 15). Hurricane Irma: Visual guide. Retrieved June 2022, from bbc.com: https://www.bbc.com/news/world-latin-america-41172545
+
+**BBC News.** (2017, September 15). **Hurricane Irma: Visual guide.** Retrieved June 2022, from bbc.com: https://www.bbc.com/news/world-latin-america-41172545
 
 **Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth.** Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1xfQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
 
@@ -179,6 +177,10 @@ BBC News. (2017, September 15). Hurricane Irma: Visual guide. Retrieved June 202
 **Commision on Audit.** (n.d.). **Disaster Management Practices in the Philippines : An Assessment.** Retrieved March 2022, from coa.gov.ph: https://www.coa.gov.ph/disaster_audit/doc/National.pdf
 
 **Constible, J.** (2021, May 13). Preparing for Hurricanes: Infrastructure & Our Health. Retrieved June 2022, from nrdc.org: https://www.nrdc.org/experts/juanita-constible/preparing-hurricanes-infrastructure-our-health
+
+**Donovan, M. G.** (2017, November 16).  **How the Caribbean Can
+Prepare for More Violent Hurricanes** . Retrieved June 2022, from
+ps://www.americasquarterly.org/article/how-the-caribbean-can-prepare-for-more-violent-hurricanes/
 
 **Enano, J. O.** (2019, February 6). **Lack of money leaves most PH households unprepared for disasters.** Retrieved May 2022, from newsinfo.inquirer.net: https://newsinfo.inquirer.net/1082001/lack-of-money-leaves-most-ph-households-unprepared-for-disasters
 
@@ -197,13 +199,17 @@ BBC News. (2017, September 15). Hurricane Irma: Visual guide. Retrieved June 202
 **Policy Brief - Senate Economic Planning Office.** (2017, May). **Examining the Philippines’ Disaster Risk Reduction and Management System.** Retrieved May 2022, from legacy.senate.gov.ph: https://legacy.senate.gov.ph/publications/SEPO/PB_Examining%20PH%20DRRM%20System_Revised_27June2017.pdf
 
 **Simmons, J.** (n.d.). **Hurricane Season in the Caribbean.** Retrieved June 2022, from responsibletravel.com: https://www.responsibletravel.com/holidays/caribbean/travel-guide/hurricane-season-in-the-caribbean
-Social, B. (2018, February 22). The History of Natural Disasters in Haiti. Retrieved June 2022, from ufondwa.org: https://www.ufondwa.org/history-natural-disasters-haiti/
+
+**Social, B.** (2018, February 22). **The History of Natural Disasters in Haiti.** Retrieved June 2022, from ufondwa.org: https://www.ufondwa.org/history-natural-disasters-haiti/
 
 **The Economists.** (2018, June 1). **America is good at dealing with hurricanes on the mainland—after they strike.** Retrieved June 2022, from economist.com: https://www.economist.com/graphic-detail/2018/06/01/america-is-good-at-dealing-with-hurricanes-on-the-mainland-after-they-strike
 
 **United Nations.** (2004, September 14). **Cuba: A Model in Hurricane Risk Management.** Retrieved June 2022, from un.org: https://www.un.org/press/en/2004/iha943.doc.htm
 
 **Weather Underground.** (n.d.). **Prepare for a Hurricane or Typhoon.** Retrieved March 2022, from wunderground.com: https://www.wunderground.com/prepare/hurricane-typhoon?fbclid=IwAR33lsq6x66YI-9NFX94Ofy8jgC2TwH9gT__W9AItLA8P2pWyBJmnoYTM1w
+
+**Young, C.** (2020, September 10). **Natural Disasters: Economic Effects of Hurricanes Katrina, Sandy, Harvey, and Irma.** Retrieved from gao.gov: https://www.gao.gov/products/gao-20-633r
+2pWyBJmnoYTM1w
 
 **Young, C.** (2020, September 10). **Natural Disasters: Economic Effects of Hurricanes Katrina, Sandy, Harvey, and Irma.** Retrieved from gao.gov: https://www.gao.gov/products/gao-20-633r
 
