@@ -7,12 +7,18 @@
 **Team Typhoon Analysts Members** - ITBA 3207
 
 *Alangilan, Christine Joy M.*
+![Chrisitine Joy Alangilan](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/CJ%20Alangilan.JPG)
 
 *Alvaro, Gabriel Edrian A.*
+![Gabriel Edrian Alvaro](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/123234.jpg)
+
 
 *Palis, John Arthur B.*
+![John Arthur Palis](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/John%20Palis.jpg)
+
 
 *Guerra, Marian Z.*
+![Marian Z. Guerra](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/Marian%20Guerra.jpg)
 
 ---
 
