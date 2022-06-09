@@ -4,7 +4,7 @@
 
 ---
 
-**Team Typhoon Analysts Members** - ITBA 3207 
+**Team Typhoon Analysts Members** - ITBA 3207
 
 *Alangilan, Christine Joy M.*
 
@@ -42,7 +42,7 @@
 
 ---
 
-<p align='justify'> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. This research will specifically benefit the following: </p>
+<p align='justify'>         This data analysis research will provide fresh light on the country's reaction to and mitigation of the consequences of typhoons. This research will specifically benefit the following: </p>
 
 * *Government* <p align='justify'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This research will aid them in taking immediate action, prior to a disaster, to mitigate losses in the case of a typhoon disaster. The planning process and suggested ideas from established frameworks in the United States will assist them in determining how to plan, create, and develop the community while fostering risk-reduction collaborations.</p>
 * *Community*<p align='justify'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This research educates the community about the solutions and methods that might be implemented to ensure their safety during typhoon catastrophes and floods.</p>
@@ -109,7 +109,7 @@ Links for Data Set Excel sheets;
 
 <center>
 
-[![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/rRG2zQXw8y8)
+[![Watch the video](https://github.com/Gabriel19-00477/ITBA-3207_TeamTyphoonAnalysts/blob/master/Images/First%20Video%20Presentation.jpg)](https://youtu.be/hRPtoBxzltY)
 
 </center>
 
@@ -118,6 +118,7 @@ Links for Data Set Excel sheets;
 **References**
 
 ---
+
 **After the Hurricane – an overview of the damage Irma and Maria left behind - Antigua and Barbuda | ReliefWeb**. (n.d.). Reliefweb.int. Retrieved June 8, 2022, from https://reliefweb.int/report/antigua-and-barbuda/after-hurricane-overview-damage-irma-and-maria-left-behind
 
 **Brown, S.** (2013, November 11). **The Philippines Is the Most Storm-Exposed Country on Earth**. Retrieved March 2022, from world.time.com: https://world.time.com/2013/11/11/the-philippines-is-the-most-storm-exposed-country-on-earth/?fbclid=IwAR1x**fQgQHZkgjZck_X9EBg_Jvj76wm7EL-I8OHJebNGkpLxIsEgHLxqPcrU
