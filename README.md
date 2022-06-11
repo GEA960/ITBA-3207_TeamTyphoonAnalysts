@@ -219,4 +219,3 @@ ps://www.americasquarterly.org/article/how-the-caribbean-can-prepare-for-more-vi
 **Young, C.** (2020, September 10). **Natural Disasters: Economic Effects of Hurricanes Katrina, Sandy, Harvey, and Irma.** Retrieved from gao.gov: https://www.gao.gov/products/gao-20-633r
 2pWyBJmnoYTM1w
 
-**Young, C.** (2020, September 10). **Natural Disasters: Economic Effects of Hurricanes Katrina, Sandy, Harvey, and Irma.** Retrieved from gao.gov: https://www.gao.gov/products/gao-20-633r
